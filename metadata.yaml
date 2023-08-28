@@ -1,0 +1,24 @@
+_repo: Kerkkia-b-Kuvauksia-ja-patkia_71460
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grönstrand, Saima
+    gutenberg_agent_id: '56250'
+    url: http://www.gutenberg.org/2009/agents/56250
+description: ''
+gutenberg_issued: '2023-08-21'
+identifiers:
+  gutenberg: '71460'
+language: fi
+pgterms:marc905: 20230817062304saima
+pgterms:marc906: '1892'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bG. W. Edlund, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kerkkiä : $b Kuvauksia ja pätkiä'
+url: http://www.gutenberg.org/ebooks/71460
